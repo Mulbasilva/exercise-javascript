@@ -73,8 +73,39 @@
     color: rgb(209, 10, 10);
 }
 
-/* ============timeline  start========= */
+/* =================training JVS=========== */
+.treinando_jvs{
+    margin: 2rem;
+}
 
+.candi{
+    font-size: 2rem;
+}
+
+#test1, #test2, #test3{
+    font-size: 1.2rem;
+    color: red;
+}
+
+.cand{
+    font-size: 2rem;
+    margin-top: 20px;
+    text-align: center;
+}
+.description{
+    font-size: 1.5rem;
+}
+#car1, #car2, #car3{
+    font-size: 1.2rem;
+}
+
+
+
+
+
+
+/* ============timeline  start========= */
+/* 
 .wrapper{
     width: 100%;
     max-width: 1000px;
@@ -156,4 +187,4 @@
 
 .timeline li:nth-child(even){
     justify-content: flex-end;
-}
+} */
